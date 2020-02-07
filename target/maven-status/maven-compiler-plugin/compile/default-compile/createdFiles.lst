@@ -1,0 +1,11 @@
+com\auth0\trf\swing\ui\MainFrame$OpenFile.class
+com\auth0\trf\model\dto\UserMetadataInfoDto.class
+com\auth0\trf\swing\ui\MainFrame.class
+com\auth0\trf\util\AuthUtil.class
+com\auth0\trf\util\CommonUtil.class
+com\auth0\trf\swing\ui\MainFrame$1.class
+com\auth0\trf\swing\ui\MainFrame$GenerateFile.class
+com\auth0\trf\model\dto\RoleDto.class
+com\auth0\trf\model\dto\UserDto.class
+com\auth0\trf\model\dto\AppMetadataInfoDto.class
+com\auth0\trf\Main.class

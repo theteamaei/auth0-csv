@@ -1,0 +1,13 @@
+
+csquid:S2095"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(…ç§¡ÿÿÿÿÿ
+esquid:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(ù÷š
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ò¤Òüÿÿÿÿ
+Lsquid:S2209O"5Change this instance-reference to a static reference.(×Ç±÷
+|squid:S1488O"eImmediately return this expression instead of assigning it to the temporary variable "partitionList".(×Ç±÷
+:squid:S1148I"#Use a logger to log this exception.(Ç’Çê
+Bsquid:S1168J"+Return an empty collection instead of null.(¥¹ï
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ô­ú²ùÿÿÿÿ
+rsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(…¿«ùÿÿÿÿ
+N
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¿ßà5
+Wsquid:S1068"4Remove this unused "AUTH0_CONNECTION" private field.(ŸÍÔÙùÿÿÿÿ8õ²÷õ.
